@@ -1,16 +1,16 @@
 body {
-  background-color: #eeebe2;
+  background-color: #FFFAED;
   font-family: Martel;
 }
 
 h1, h2, h3, h4, h5 {
-  color: #443ae7;
+  color: #496807;
   font-family: 'Archivo', sans-serif;
   letter-spacing: 1px
 }
 
 .blue {
-  color: #443ae7;
+  color: #496807;
 }
 
 p {
@@ -36,13 +36,13 @@ p {
 }
 
 .card {
-  background-color: #e2dece;
+  background-color: #FFBF49;
   border: none;
 
 }
 
 .btn-group button {
-  background-color: #443ae7;
+  background-color: #E72952;
   border: 1px solid white;
   color: white; /* White text */
   padding: 10px 24px;
